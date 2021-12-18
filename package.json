@@ -1,0 +1,23 @@
+{
+  "name": "cracking-the-coding-interview",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/omkarsk98/Cracking-the-coding-interview.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/omkarsk98/Cracking-the-coding-interview/issues"
+  },
+  "homepage": "https://github.com/omkarsk98/Cracking-the-coding-interview#readme",
+  "dependencies": {
+    "chai": "^4.3.4",
+    "mocha": "^9.0.1"
+  }
+}
